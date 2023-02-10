@@ -1,5 +1,5 @@
 import { FireBaseService } from './firebase';
-// import { Notify } from 'notiflix/build/notiflix-notify-aio';
+
 const firebase = new FireBaseService();
 
 export class AddToFirebase {
